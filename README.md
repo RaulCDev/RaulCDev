@@ -1,33 +1,30 @@
 # Hi, I'm Raul
 
-I'm a Full Stack Developer based in Madrid, focused on building useful web products with TypeScript, React, Next.js, NestJS and Node.js.
+I'm a Full Stack Developer based in Madrid, Spain.
 
-I enjoy working across the full product flow: understanding the problem, shaping the solution, building the frontend and backend, and iterating until the tool actually helps people in their day-to-day work.
+I work mainly with TypeScript, React, Next.js, NestJS and Node.js, building web products that connect frontend, backend and data in a practical way.
 
-## What I do
-
-I have professional experience building internal tools, dashboards, KPI interfaces, SaaS features, APIs and database-driven applications.
-
-Most recently, I worked at **Platómico / Pink's** as a Junior Full Stack Developer, where I helped build operational tools used in real work environments. My work included dashboards, client interaction screens, internal material tracking, backend modules and database structures for business processes.
-
-Before that, I worked at **Hewlett Packard Enterprise** on a full-stack microservices-based project, using technologies such as Next.js, Flask, Kafka, Eureka, Zuul and MongoDB.
+I like working close to the real problem: understanding what a team needs, turning that into a usable tool, and improving it until it actually makes day-to-day work easier.
 
 ## Tech I work with
 
-**Frontend:** React, Next.js, React Native, Tailwind CSS, SCSS  
-**Backend:** Node.js, NestJS, Express, Flask, REST APIs  
-**Databases:** MongoDB, PostgreSQL, SQLite  
-**Tools:** Git, Docker, AWS, Kafka, Eureka, Zuul  
-**Languages:** TypeScript, JavaScript, Java, Python, SQL, XML  
-
-## A bit more about me
-
-I'm currently studying Software Engineering at UNIR while continuing to grow as a developer.
-
-I like working on products where the software has a clear purpose: improving workflows, making operations easier, connecting systems, or giving teams better tools to work with.
-
-I'm especially interested in Full Stack, Frontend and Backend roles where I can keep improving technically and contribute to clean, maintainable and practical software.
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/raul-conde-rodriguez](https://www.linkedin.com/in/raul-conde-rodriguez)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

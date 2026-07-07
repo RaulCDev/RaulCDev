@@ -31,5 +31,3 @@ I'm especially interested in Full Stack, Frontend and Backend roles where I can 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/raul-conde-rodriguez](https://www.linkedin.com/in/raul-conde-rodriguez)
-- GitHub: [github.com/RaulCDev](https://github.com/RaulCDev)
-- Email: rcrdev_@hotmail.com

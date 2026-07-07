@@ -1,6 +1,4 @@
-I'm a Full Stack Developer based in Madrid, Spain.
-
-I work mainly with TypeScript, React, Next.js, NestJS and Node.js, building web products that connect frontend, backend and data in a practical way.
+Full Stack Developer based in Madrid, Spain.
 
 I like working close to the real problem: understanding what a team needs, turning that into a usable tool, and improving it until it actually makes day-to-day work easier.
 

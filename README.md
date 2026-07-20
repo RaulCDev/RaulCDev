@@ -1,7 +1,5 @@
 Full Stack Developer based in Madrid, Spain.
 
-I like working close to the real problem: understanding what a team needs, turning that into a usable tool, and improving it until it actually makes day-to-day work easier.
-
 ### Core stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
